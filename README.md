@@ -1,5 +1,5 @@
 # Aadhar Masking
-Python program to mask out Aadhar Numbers present in an image. Aadhaar Masking is a process that blocks out the first 8 numbers of the 12 digit Aadhar Number for security purposes. The python code found in the repository uses libraries such as OpenCV and PyTesseract for perform OCR and carrying out the Masking process. 
+Python program to mask out Aadhar Numbers present in an image. Aadhaar Masking is a process that blocks out the first 8 numbers of the 12 digit Aadhar Number for security purposes. The python code found in the repository uses libraries such as OpenCV and PyTesseract for performing OCR and carrying out the Masking process. 
 <br>
 # Results
 **Sample Input :**  
@@ -7,3 +7,5 @@ Python program to mask out Aadhar Numbers present in an image. Aadhaar Masking i
 <br>
 **Corresponding Ouput :** 
 ![alt text](https://github.com/supertramp2/AadharMasking/blob/main/Images/Output/masked_1.png?raw=true)
+<br>
+Other outputs can be found in the Images/Output Folder.
